@@ -1,0 +1,30 @@
+{
+  "price": "Free",
+  "suggestedAgeRating": "4+",
+  "localizations": {
+    "en": {
+      "name": "Chicken Cross",
+      "subtitle": "Little hops. Big adventures.",
+      "keywords": "chicken game,road crossing arcade,hopper game,hen,offline,family,river,daily challenge",
+      "description": "Help a little hen cross busy roads, grassy fields and winding rivers. Learn the rhythm of passing cars, ride floating logs and watch for trains. Collect coins along the path to choose six cheerful hen colors. Every day brings a repeatable route and three local tasks. Compare scores on this device and exchange scorecards directly. Home Screen and Lock Screen widgets keep your daily adventure close. Plays entirely offline. Free, with no ads or purchases."
+    },
+    "de": {
+      "name": "Chicken Cross",
+      "subtitle": "Kleine Hüpfer, große Abenteuer",
+      "keywords": "Hühnerspiel,Straße,überqueren,Arcade,hüpfen,offline,Familie,Fluss,Tagesaufgaben",
+      "description": "Hilf einem kleinen Huhn über Straßen, Wiesen und Flüsse. Weiche Autos aus, fahre auf treibenden Stämmen und achte auf Züge. Sammle Münzen für sechs fröhliche Hühnerfarben. Jeden Tag warten eine wiederholbare Route und drei lokale Aufgaben. Vergleiche Ergebnisse auf diesem Gerät und tausche Ergebniskarten direkt aus. Widgets für Home- und Sperrbildschirm zeigen dein Tagesabenteuer. Vollständig offline spielbar. Kostenlos, ohne Werbung und Käufe."
+    },
+    "pt-BR": {
+      "name": "Chicken Cross",
+      "subtitle": "Pequenos pulos. Aventuras.",
+      "keywords": "jogo de galinha,atravessar rua,arcade,pular,offline,família,rio,desafio diário",
+      "description": "Ajude uma galinha a atravessar ruas, campos e rios. Desvie dos carros, viaje nos troncos e observe os trens. Junte moedas para colecionar seis cores de galinhas. Todos os dias há uma rota que pode ser repetida e três tarefas locais. Compare resultados no dispositivo e troque cartões de pontuação diretamente. Widgets para as telas de Início e Bloqueio mostram a aventura diária. Funciona inteiramente offline. Grátis, sem anúncios ou compras."
+    },
+    "fr": {
+      "name": "Chicken Cross",
+      "subtitle": "Petits pas, grandes aventures.",
+      "keywords": "jeu poule,traversée route,arcade,saut,hors ligne,famille,rivière,défi quotidien",
+      "description": "Aidez une petite poule à traverser routes, prés et rivières. Évitez les voitures, sautez sur les troncs et surveillez les trains. Ramassez des pièces pour collectionner six couleurs de poules. Chaque jour propose un parcours à rejouer et trois défis locaux. Comparez les résultats sur cet appareil et échangez vos fiches de score. Les widgets d’accueil et d’écran verrouillé affichent l’aventure du jour. Jouez entièrement hors ligne. Gratuit, sans publicité ni achats."
+    }
+  }
+}

@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Chicken Cross</key>
+	<string>Chicken Cross</string>
+	<key>again</key>
+	<string>Hop again</string>
+	<key>allTime</key>
+	<string>All time</string>
+	<key>answer</key>
+	<string>Answer</string>
+	<key>back</key>
+	<string>Hop back</string>
+	<key>best</key>
+	<string>Best</string>
+	<key>cancel</key>
+	<string>Cancel</string>
+	<key>choose</key>
+	<string>Choose</string>
+	<key>coins</key>
+	<string>Coins</string>
+	<key>coinsCount</key>
+	<string>Coins: %d</string>
+	<key>collect</key>
+	<string>Collect</string>
+	<key>comfort</key>
+	<string>Make it yours</string>
+	<key>continue</key>
+	<string>Continue</string>
+	<key>daily</key>
+	<string>Daily</string>
+	<key>dailyAdventure</key>
+	<string>Daily adventure</string>
+	<key>dailyHelp</key>
+	<string>One route for the whole day. Learn the rhythm and beat your own distance.</string>
+	<key>dailyReminders</key>
+	<string>Remind me each day</string>
+	<key>dailyRun</key>
+	<string>Daily route</string>
+	<key>dayEnded</key>
+	<string>A new daily route is ready. Your last route is saved.</string>
+	<key>disconnect</key>
+	<string>Stop sharing scores</string>
+	<key>done</key>
+	<string>Done</string>
+	<key>ember</key>
+	<string>Ember</string>
+	<key>endRun</key>
+	<string>Finish this run</string>
+	<key>endsIn</key>
+	<string>Ends in</string>
+	<key>erase</key>
+	<string>Erase local progress</string>
+	<key>eraseQuestion</key>
+	<string>Erase coins, hens and local records? Game Center records are kept by Apple.</string>
+	<key>everyHopCounts</key>
+	<string>EVERY HOP COUNTS</string>
+	<key>explore</key>
+	<string>Explore this place</string>
+	<key>finished</key>
+	<string>Your adventure is saved. Ready when you are.</string>
+	<key>flock</key>
+	<string>Flock</string>
+	<key>flockHelp</key>
+	<string>Find coins on the path. Collect a new look. Every hen hops the same.</string>
+	<key>forward</key>
+	<string>Hop forward</string>
+	<key>freeForever</key>
+	<string>Free to play. No ads. Made for little adventures.</string>
+	<key>freeRun</key>
+	<string>Free run</string>
+	<key>freshEveryMorning</key>
+	<string>FRESH EVERY MORNING</string>
+	<key>frost</key>
+	<string>Frosty morning</string>
+	<key>gameCenter</key>
+	<string>Game Center</string>
+	<key>gameField</key>
+	<string>Crossing field</string>
+	<key>gateHelp</key>
+	<string>Ask a grown-up to answer before opening system services.</string>
+	<key>gcConnecting</key>
+	<string>Connecting to Game Center…</string>
+	<key>gcHelp</key>
+	<string>Compare distances with Game Center. Optional sign-in; your local records are always available.</string>
+	<key>gcPrivacy</key>
+	<string>If you connect Game Center, Apple receives your scores and handles your Game Center profile. Disconnect below to stop future score sharing.</string>
+	<key>gcReady</key>
+	<string>Game Center connected.</string>
+	<key>gcUnavailable</key>
+	<string>Game Center is unavailable. Your distance stays saved here and can sync after reconnecting.</string>
+	<key>gestureHelp</key>
+	<string>Tap the field to hop · Swipe to steer</string>
+	<key>grownUps</key>
+	<string>For grown-ups</string>
+	<key>haptics</key>
+	<string>Gentle haptics</string>
+	<key>harvest</key>
+	<string>Harvest fields</string>
+	<key>howTo</key>
+	<string>How to cross</string>
+	<key>ivory</key>
+	<string>Little Ivory</string>
+	<key>laneField</key>
+	<string>Grass field</string>
+	<key>laneRail</key>
+	<string>Railway, watch the signal</string>
+	<key>laneRiver</key>
+	<string>River, stay on a log</string>
+	<key>laneRoad</key>
+	<string>Road with moving cars</string>
+	<key>left</key>
+	<string>Hop left</string>
+	<key>littlePersonalities</key>
+	<string>LITTLE PERSONALITIES</string>
+	<key>location</key>
+	<string>Free-run landscape</string>
+	<key>locations</key>
+	<string>Seasonal places</string>
+	<key>meadow</key>
+	<string>Sunny meadow</string>
+	<key>midnight</key>
+	<string>Midnight</string>
+	<key>mint</key>
+	<string>Minty</string>
+	<key>missionCoins</key>
+	<string>Gather coins today</string>
+	<key>missionDistance</key>
+	<string>Go far on the daily route</string>
+	<key>missionRuns</key>
+	<string>Finish three runs today</string>
+	<key>needCoins</key>
+	<string>Keep exploring to find more coins.</string>
+	<key>noRecords</key>
+	<string>Your first adventure belongs here.
+Finish a run to see your record.</string>
+	<key>noRecordsShort</key>
+	<string>Finish a run to begin.</string>
+	<key>notificationError</key>
+	<string>Couldn’t enable reminders. You can try again later.</string>
+	<key>notificationsDenied</key>
+	<string>Reminders are disabled in system settings. All game features still work.</string>
+	<key>notifyPlace</key>
+	<string>A new daily place is ready. A little adventure awaits.</string>
+	<key>notifyTasks</key>
+	<string>Today’s tasks are ready. Hop a little further.</string>
+	<key>offlineArcade</key>
+	<string>OFFLINE ARCADE</string>
+	<key>openGameCenter</key>
+	<string>Open Game Center</string>
+	<key>orchard</key>
+	<string>Green orchard</string>
+	<key>ownedCount</key>
+	<string>Collected: %d / 6</string>
+	<key>pause</key>
+	<string>Pause run</string>
+	<key>pauseHelp</key>
+	<string>Your hen can wait right here.</string>
+	<key>paused</key>
+	<string>A little breather</string>
+	<key>play</key>
+	<string>Play</string>
+	<key>privacy</key>
+	<string>Your privacy</string>
+	<key>privacyText</key>
+	<string>Your routes, coins, hens and records stay on this device. Widgets read the same local save. No ads, tracking, purchases or developer servers.</string>
+	<key>railHelp</key>
+	<string>Avoid cars. A red railway light means a train is approaching. Wait on the grass until the tracks are clear.</string>
+	<key>readyHelp</key>
+	<string>A little hen. A wide world.
+How far will you hop?</string>
+	<key>readyTitle</key>
+	<string>Ready, steady,
+cross.</string>
+	<key>records</key>
+	<string>Records</string>
+	<key>reminders</key>
+	<string>Daily reminders</string>
+	<key>remindersHelp</key>
+	<string>A local reminder at 09:00 for the new place and at 18:00 for daily tasks. No server is involved. You can turn these off anytime.</string>
+	<key>resume</key>
+	<string>Keep hopping</string>
+	<key>right</key>
+	<string>Hop right</string>
+	<key>riverHelp</key>
+	<string>Cross water on moving logs. Stay aboard and hop to the next log before it drifts away.</string>
+	<key>rose</key>
+	<string>Rosie</string>
+	<key>rulesText</key>
+	<string>Tap the field or the up arrow to hop forward. Swipe or use arrows to move sideways or back. Trees block your path. You can move back up to five rows.</string>
+	<key>runOver</key>
+	<string>A brave little run</string>
+	<key>seasonal</key>
+	<string>Follow the season</string>
+	<key>seasonsHelp</key>
+	<string>Every place is always open. Pick a landscape for your next free run.</string>
+	<key>selected</key>
+	<string>Selected</string>
+	<key>settings</key>
+	<string>Settings</string>
+	<key>startDaily</key>
+	<string>Start daily route</string>
+	<key>startRun</key>
+	<string>Let’s cross</string>
+	<key>steps</key>
+	<string>Steps</string>
+	<key>stepsCount</key>
+	<string>Steps: %d</string>
+	<key>sunny</key>
+	<string>Sunny</string>
+	<key>systemSettings</key>
+	<string>Open system settings</string>
+	<key>today</key>
+	<string>Today</string>
+	<key>todayBest</key>
+	<string>Today’s best run</string>
+	<key>todayLocation</key>
+	<string>TODAY’S LOCATION</string>
+	<key>traffic</key>
+	<string>A car crossed your path. Try a different rhythm.</string>
+	<key>train</key>
+	<string>The train was quicker. Watch the red signal next time.</string>
+	<key>tryAgain</key>
+	<string>Give it another try.</string>
+	<key>tryDaily</key>
+	<string>Try today’s route</string>
+	<key>water</key>
+	<string>That log drifted away. Let’s find a new path.</string>
+	<key>weekRecords</key>
+	<string>This week’s best runs</string>
+	<key>widgetDescription</key>
+	<string>Your daily route, little flock and local records. Always available offline.</string>
+	<key>yourFlock</key>
+	<string>Your little flock</string>
+	<key>yourRecords</key>
+	<string>Your records</string>
+</dict>
+</plist>

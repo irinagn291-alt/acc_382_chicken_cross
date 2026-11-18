@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Chicken Cross</key>
+	<string>Chicken Cross</string>
+	<key>again</key>
+	<string>Noch einmal</string>
+	<key>allTime</key>
+	<string>Insgesamt</string>
+	<key>answer</key>
+	<string>Antwort</string>
+	<key>back</key>
+	<string>Zurück hüpfen</string>
+	<key>best</key>
+	<string>Rekord</string>
+	<key>cancel</key>
+	<string>Abbrechen</string>
+	<key>choose</key>
+	<string>Auswählen</string>
+	<key>coins</key>
+	<string>Münzen</string>
+	<key>coinsCount</key>
+	<string>Münzen: %d</string>
+	<key>collect</key>
+	<string>Sammeln</string>
+	<key>comfort</key>
+	<string>Deine Einstellungen</string>
+	<key>continue</key>
+	<string>Weiter</string>
+	<key>daily</key>
+	<string>Täglich</string>
+	<key>dailyAdventure</key>
+	<string>Tagesabenteuer</string>
+	<key>dailyHelp</key>
+	<string>Eine Route für den ganzen Tag. Lerne den Rhythmus und verbessere deine Strecke.</string>
+	<key>dailyReminders</key>
+	<string>Täglich erinnern</string>
+	<key>dailyRun</key>
+	<string>Tagesroute</string>
+	<key>dayEnded</key>
+	<string>Eine neue Tagesroute ist bereit. Deine letzte Route ist gespeichert.</string>
+	<key>disconnect</key>
+	<string>Ergebnisse nicht mehr teilen</string>
+	<key>done</key>
+	<string>Fertig</string>
+	<key>ember</key>
+	<string>Glut</string>
+	<key>endRun</key>
+	<string>Lauf beenden</string>
+	<key>endsIn</key>
+	<string>Endet in</string>
+	<key>erase</key>
+	<string>Lokalen Fortschritt löschen</string>
+	<key>eraseQuestion</key>
+	<string>Münzen, Hühner und lokale Rekorde löschen? Game-Center-Rekorde bleiben bei Apple.</string>
+	<key>everyHopCounts</key>
+	<string>JEDER HÜPFER ZÄHLT</string>
+	<key>explore</key>
+	<string>Diesen Ort erkunden</string>
+	<key>finished</key>
+	<string>Dein Abenteuer ist gespeichert. Weiter, wenn du bereit bist.</string>
+	<key>flock</key>
+	<string>Schar</string>
+	<key>flockHelp</key>
+	<string>Finde Münzen auf dem Weg und sammle neue Farben. Jedes Huhn hüpft gleich.</string>
+	<key>forward</key>
+	<string>Vorwärts hüpfen</string>
+	<key>freeForever</key>
+	<string>Kostenlos spielen. Ohne Werbung. Für kleine Abenteuer.</string>
+	<key>freeRun</key>
+	<string>Freier Lauf</string>
+	<key>freshEveryMorning</key>
+	<string>JEDEN MORGEN NEU</string>
+	<key>frost</key>
+	<string>Frostiger Morgen</string>
+	<key>gameCenter</key>
+	<string>Game Center</string>
+	<key>gameField</key>
+	<string>Spielfeld</string>
+	<key>gateHelp</key>
+	<string>Bitte einen Erwachsenen um die Antwort, um Systemdienste zu öffnen.</string>
+	<key>gcConnecting</key>
+	<string>Verbindung zum Game Center…</string>
+	<key>gcHelp</key>
+	<string>Vergleiche Strecken im Game Center. Die Anmeldung ist freiwillig; lokale Rekorde sind immer verfügbar.</string>
+	<key>gcPrivacy</key>
+	<string>Wenn du Game Center verbindest, erhält Apple deine Ergebnisse und verwaltet dein Game-Center-Profil. Trenne die Verbindung, um keine weiteren Ergebnisse zu teilen.</string>
+	<key>gcReady</key>
+	<string>Game Center ist verbunden.</string>
+	<key>gcUnavailable</key>
+	<string>Game Center ist nicht verfügbar. Deine Strecke bleibt hier gespeichert und kann später übertragen werden.</string>
+	<key>gestureHelp</key>
+	<string>Tippen zum Hüpfen · Wischen zum Lenken</string>
+	<key>grownUps</key>
+	<string>Für Erwachsene</string>
+	<key>haptics</key>
+	<string>Sanfte Vibrationen</string>
+	<key>harvest</key>
+	<string>Erntefelder</string>
+	<key>howTo</key>
+	<string>So spielst du</string>
+	<key>ivory</key>
+	<string>Elfi</string>
+	<key>laneField</key>
+	<string>Wiese</string>
+	<key>laneRail</key>
+	<string>Gleise, achte auf das Signal</string>
+	<key>laneRiver</key>
+	<string>Fluss, bleibe auf einem Stamm</string>
+	<key>laneRoad</key>
+	<string>Straße mit fahrenden Autos</string>
+	<key>left</key>
+	<string>Nach links hüpfen</string>
+	<key>littlePersonalities</key>
+	<string>KLEINE PERSÖNLICHKEITEN</string>
+	<key>location</key>
+	<string>Landschaft im freien Lauf</string>
+	<key>locations</key>
+	<string>Orte der Jahreszeiten</string>
+	<key>meadow</key>
+	<string>Sonnenwiese</string>
+	<key>midnight</key>
+	<string>Mitternacht</string>
+	<key>mint</key>
+	<string>Minze</string>
+	<key>missionCoins</key>
+	<string>Heute Münzen sammeln</string>
+	<key>missionDistance</key>
+	<string>Weit auf der Tagesroute kommen</string>
+	<key>missionRuns</key>
+	<string>Heute drei Läufe beenden</string>
+	<key>needCoins</key>
+	<string>Erkunde weiter und finde mehr Münzen.</string>
+	<key>noRecords</key>
+	<string>Dein erstes Abenteuer gehört hierher.
+Beende einen Lauf, um deinen Rekord zu sehen.</string>
+	<key>noRecordsShort</key>
+	<string>Beende deinen ersten Lauf.</string>
+	<key>notificationError</key>
+	<string>Erinnerungen konnten nicht aktiviert werden. Versuche es später erneut.</string>
+	<key>notificationsDenied</key>
+	<string>Erinnerungen sind in den Systemeinstellungen deaktiviert. Das Spiel funktioniert weiterhin vollständig.</string>
+	<key>notifyPlace</key>
+	<string>Ein neuer Tagesort ist bereit. Ein kleines Abenteuer wartet.</string>
+	<key>notifyTasks</key>
+	<string>Deine Tagesaufgaben warten. Hüpfe ein Stück weiter.</string>
+	<key>offlineArcade</key>
+	<string>OFFLINE-ARKADE</string>
+	<key>openGameCenter</key>
+	<string>Game Center öffnen</string>
+	<key>orchard</key>
+	<string>Grüner Obstgarten</string>
+	<key>ownedCount</key>
+	<string>Gesammelt: %d / 6</string>
+	<key>pause</key>
+	<string>Lauf pausieren</string>
+	<key>pauseHelp</key>
+	<string>Dein Huhn wartet hier auf dich.</string>
+	<key>paused</key>
+	<string>Eine kleine Pause</string>
+	<key>play</key>
+	<string>Spielen</string>
+	<key>privacy</key>
+	<string>Deine Privatsphäre</string>
+	<key>privacyText</key>
+	<string>Routen, Münzen, Hühner und Rekorde bleiben auf diesem Gerät. Widgets lesen denselben lokalen Spielstand. Keine Werbung, kein Tracking, keine Käufe und keine eigenen Server.</string>
+	<key>railHelp</key>
+	<string>Weiche Autos aus. Rotes Licht an den Gleisen kündigt einen Zug an. Warte im Gras, bis die Gleise frei sind.</string>
+	<key>readyHelp</key>
+	<string>Ein kleines Huhn. Eine weite Welt.
+Wie weit hüpfst du?</string>
+	<key>readyTitle</key>
+	<string>Auf die Plätze,
+hüpf los.</string>
+	<key>records</key>
+	<string>Rekorde</string>
+	<key>reminders</key>
+	<string>Tägliche Erinnerungen</string>
+	<key>remindersHelp</key>
+	<string>Lokale Erinnerungen um 09:00 zum neuen Ort und um 18:00 zu den Tagesaufgaben. Ohne Server. Jederzeit ausschaltbar.</string>
+	<key>resume</key>
+	<string>Weiterhüpfen</string>
+	<key>right</key>
+	<string>Nach rechts hüpfen</string>
+	<key>riverHelp</key>
+	<string>Überquere Flüsse auf treibenden Stämmen. Bleibe darauf und hüpfe weiter, bevor du abtreibst.</string>
+	<key>rose</key>
+	<string>Röschen</string>
+	<key>rulesText</key>
+	<string>Tippe aufs Feld oder den Pfeil nach oben, um vorwärts zu hüpfen. Wische oder nutze Pfeile, um seitlich oder zurück zu gehen. Bäume versperren den Weg. Du kannst bis zu fünf Reihen zurück.</string>
+	<key>runOver</key>
+	<string>Ein mutiger kleiner Lauf</string>
+	<key>seasonal</key>
+	<string>Der Jahreszeit folgen</string>
+	<key>seasonsHelp</key>
+	<string>Alle Orte sind immer offen. Wähle eine Landschaft für deinen nächsten freien Lauf.</string>
+	<key>selected</key>
+	<string>Ausgewählt</string>
+	<key>settings</key>
+	<string>Einstellungen</string>
+	<key>startDaily</key>
+	<string>Tagesroute starten</string>
+	<key>startRun</key>
+	<string>Los geht’s</string>
+	<key>steps</key>
+	<string>Schritte</string>
+	<key>stepsCount</key>
+	<string>Schritte: %d</string>
+	<key>sunny</key>
+	<string>Sonnchen</string>
+	<key>systemSettings</key>
+	<string>Systemeinstellungen öffnen</string>
+	<key>today</key>
+	<string>Heute</string>
+	<key>todayBest</key>
+	<string>Bester Lauf heute</string>
+	<key>todayLocation</key>
+	<string>HEUTIGER ORT</string>
+	<key>traffic</key>
+	<string>Ein Auto hat deinen Weg gekreuzt. Versuche einen anderen Rhythmus.</string>
+	<key>train</key>
+	<string>Der Zug war schneller. Achte nächstes Mal auf das rote Licht.</string>
+	<key>tryAgain</key>
+	<string>Versuche es noch einmal.</string>
+	<key>tryDaily</key>
+	<string>Heutige Route spielen</string>
+	<key>water</key>
+	<string>Der Stamm ist abgetrieben. Finde einen neuen Weg.</string>
+	<key>weekRecords</key>
+	<string>Beste Läufe dieser Woche</string>
+	<key>widgetDescription</key>
+	<string>Deine Tagesroute, kleine Schar und lokalen Rekorde. Immer offline verfügbar.</string>
+	<key>yourFlock</key>
+	<string>Deine kleine Schar</string>
+	<key>yourRecords</key>
+	<string>Deine Rekorde</string>
+</dict>
+</plist>

@@ -1,0 +1,8 @@
+{
+  "unit_and_widget_typecheck": "passed",
+  "ui_typecheck": "passed",
+  "simulator_runtime": "queued, not yet executed",
+  "unit_methods": 9,
+  "ui_methods": 3,
+  "note": "Type checking is not runtime QA."
+}

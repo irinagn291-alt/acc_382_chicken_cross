@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>colors</key>
+	<array>
+		<dict>
+			<key>catalogPath</key>
+			<string>/Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/04_chicken_road/01_chicken_cross/Resources/PlumeAssets.xcassets</string>
+			<key>objcSymbol</key>
+			<string>ACColorNameLaunchTint</string>
+			<key>relativePath</key>
+			<string>./LaunchTint.colorset</string>
+			<key>swiftSymbol</key>
+			<string>launchTint</string>
+		</dict>
+	</array>
+	<key>images</key>
+	<array/>
+	<key>symbols</key>
+	<array/>
+</dict>
+</plist>

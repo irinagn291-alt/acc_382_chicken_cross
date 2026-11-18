@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Chicken Cross</key>
+	<string>Chicken Cross</string>
+	<key>again</key>
+	<string>Rejouer</string>
+	<key>allTime</key>
+	<string>Depuis le début</string>
+	<key>answer</key>
+	<string>Réponse</string>
+	<key>back</key>
+	<string>Reculer</string>
+	<key>best</key>
+	<string>Recorde</string>
+	<key>cancel</key>
+	<string>Annuler</string>
+	<key>choose</key>
+	<string>Choisir</string>
+	<key>coins</key>
+	<string>Pièces</string>
+	<key>coinsCount</key>
+	<string>Pièces : %d</string>
+	<key>collect</key>
+	<string>Obtenir</string>
+	<key>comfort</key>
+	<string>À votre goût</string>
+	<key>continue</key>
+	<string>Continuer</string>
+	<key>daily</key>
+	<string>Du jour</string>
+	<key>dailyAdventure</key>
+	<string>Aventure du jour</string>
+	<key>dailyHelp</key>
+	<string>Un parcours pour toute la journée. Trouvez le rythme et dépassez votre distance.</string>
+	<key>dailyReminders</key>
+	<string>Me rappeler chaque jour</string>
+	<key>dailyRun</key>
+	<string>Parcours du jour</string>
+	<key>dayEnded</key>
+	<string>Un nouveau parcours du jour est prêt. Le précédent est enregistré.</string>
+	<key>disconnect</key>
+	<string>Arrêter le partage des scores</string>
+	<key>done</key>
+	<string>Terminé</string>
+	<key>ember</key>
+	<string>Braise</string>
+	<key>endRun</key>
+	<string>Terminer la partie</string>
+	<key>endsIn</key>
+	<string>Fin dans</string>
+	<key>erase</key>
+	<string>Effacer la progression locale</string>
+	<key>eraseQuestion</key>
+	<string>Effacer pièces, poules et records locaux ? Les records Game Center restent chez Apple.</string>
+	<key>everyHopCounts</key>
+	<string>CHAQUE PAS COMPTE</string>
+	<key>explore</key>
+	<string>Explorer ce lieu</string>
+	<key>finished</key>
+	<string>Votre aventure est enregistrée. Reprenez quand vous voulez.</string>
+	<key>flock</key>
+	<string>Poules</string>
+	<key>flockHelp</key>
+	<string>Ramassez des pièces et collectionnez les couleurs. Toutes les poules avancent de la même façon.</string>
+	<key>forward</key>
+	<string>Avancer</string>
+	<key>freeForever</key>
+	<string>Gratuit. Sans publicité. Pour de petites aventures.</string>
+	<key>freeRun</key>
+	<string>Partie libre</string>
+	<key>freshEveryMorning</key>
+	<string>DU NOUVEAU CHAQUE MATIN</string>
+	<key>frost</key>
+	<string>Matin givré</string>
+	<key>gameCenter</key>
+	<string>Game Center</string>
+	<key>gameField</key>
+	<string>Terrain de traversée</string>
+	<key>gateHelp</key>
+	<string>Demandez à un adulte de répondre pour ouvrir les services du système.</string>
+	<key>gcConnecting</key>
+	<string>Connexion à Game Center…</string>
+	<key>gcHelp</key>
+	<string>Comparez vos distances dans Game Center. La connexion est facultative ; vos records locaux restent disponibles.</string>
+	<key>gcPrivacy</key>
+	<string>Si vous connectez Game Center, Apple reçoit vos scores et gère votre profil. Déconnectez-vous ci-dessous pour arrêter l’envoi de nouveaux scores.</string>
+	<key>gcReady</key>
+	<string>Game Center est connecté.</string>
+	<key>gcUnavailable</key>
+	<string>Game Center est indisponible. Votre distance reste enregistrée ici et pourra être synchronisée à la reconnexion.</string>
+	<key>gestureHelp</key>
+	<string>Touchez pour avancer · Glissez pour diriger</string>
+	<key>grownUps</key>
+	<string>Pour les adultes</string>
+	<key>haptics</key>
+	<string>Vibrations légères</string>
+	<key>harvest</key>
+	<string>Champs de récolte</string>
+	<key>howTo</key>
+	<string>Comment traverser</string>
+	<key>ivory</key>
+	<string>Petite Ivoire</string>
+	<key>laneField</key>
+	<string>Prairie</string>
+	<key>laneRail</key>
+	<string>Voie ferrée, surveillez le feu</string>
+	<key>laneRiver</key>
+	<string>Rivière, restez sur un tronc</string>
+	<key>laneRoad</key>
+	<string>Route avec voitures</string>
+	<key>left</key>
+	<string>Aller à gauche</string>
+	<key>littlePersonalities</key>
+	<string>PETITS CARACTÈRES</string>
+	<key>location</key>
+	<string>Paysage de partie libre</string>
+	<key>locations</key>
+	<string>Lieux de saison</string>
+	<key>meadow</key>
+	<string>Prairie ensoleillée</string>
+	<key>midnight</key>
+	<string>Minuit</string>
+	<key>mint</key>
+	<string>Menthe</string>
+	<key>missionCoins</key>
+	<string>Ramasser des pièces aujourd’hui</string>
+	<key>missionDistance</key>
+	<string>Avancer sur le parcours du jour</string>
+	<key>missionRuns</key>
+	<string>Terminer trois parties aujourd’hui</string>
+	<key>needCoins</key>
+	<string>Continuez à explorer pour trouver des pièces.</string>
+	<key>noRecords</key>
+	<string>Votre première aventure vous attend.
+Terminez une partie pour voir votre record.</string>
+	<key>noRecordsShort</key>
+	<string>Terminez une première partie.</string>
+	<key>notificationError</key>
+	<string>Impossible d’activer les rappels. Réessayez plus tard.</string>
+	<key>notificationsDenied</key>
+	<string>Les rappels sont désactivés dans les réglages système. Toutes les fonctions du jeu restent disponibles.</string>
+	<key>notifyPlace</key>
+	<string>Un nouveau lieu du jour est prêt. L’aventure vous attend.</string>
+	<key>notifyTasks</key>
+	<string>Les défis du jour sont prêts. Avancez un peu plus loin.</string>
+	<key>offlineArcade</key>
+	<string>ARCADE HORS LIGNE</string>
+	<key>openGameCenter</key>
+	<string>Ouvrir Game Center</string>
+	<key>orchard</key>
+	<string>Verger verdoyant</string>
+	<key>ownedCount</key>
+	<string>Collection : %d / 6</string>
+	<key>pause</key>
+	<string>Mettre en pause</string>
+	<key>pauseHelp</key>
+	<string>Votre poule vous attend ici.</string>
+	<key>paused</key>
+	<string>Une petite pause</string>
+	<key>play</key>
+	<string>Jouer</string>
+	<key>privacy</key>
+	<string>Votre confidentialité</string>
+	<key>privacyText</key>
+	<string>Vos parcours, pièces, poules et records restent sur cet appareil. Les widgets lisent cette sauvegarde locale. Sans publicité, suivi, achats ni serveurs propres.</string>
+	<key>railHelp</key>
+	<string>Évitez les voitures. Le feu rouge annonce un train. Attendez sur l’herbe que la voie soit libre.</string>
+	<key>readyHelp</key>
+	<string>Une petite poule. Un grand monde.
+Jusqu’où irez-vous ?</string>
+	<key>readyTitle</key>
+	<string>À vos marques,
+traversez !</string>
+	<key>records</key>
+	<string>Records</string>
+	<key>reminders</key>
+	<string>Rappels quotidiens</string>
+	<key>remindersHelp</key>
+	<string>Un rappel local à 09:00 pour le nouveau lieu et à 18:00 pour les défis du jour. Aucun serveur. Désactivez-les à tout moment.</string>
+	<key>resume</key>
+	<string>Continuer</string>
+	<key>right</key>
+	<string>Aller à droite</string>
+	<key>riverHelp</key>
+	<string>Traversez l’eau sur les troncs flottants. Restez dessus et sautez au suivant avant qu’il ne s’éloigne.</string>
+	<key>rose</key>
+	<string>Rosette</string>
+	<key>rulesText</key>
+	<string>Touchez le terrain ou la flèche du haut pour avancer. Glissez ou utilisez les flèches pour aller sur les côtés ou reculer. Les arbres bloquent le passage. Vous pouvez reculer de cinq rangées.</string>
+	<key>runOver</key>
+	<string>Une belle petite aventure</string>
+	<key>seasonal</key>
+	<string>Suivre la saison</string>
+	<key>seasonsHelp</key>
+	<string>Tous les lieux sont ouverts. Choisissez un paysage pour votre prochaine partie libre.</string>
+	<key>selected</key>
+	<string>Choisie</string>
+	<key>settings</key>
+	<string>Réglages</string>
+	<key>startDaily</key>
+	<string>Jouer le parcours du jour</string>
+	<key>startRun</key>
+	<string>C’est parti</string>
+	<key>steps</key>
+	<string>Pas</string>
+	<key>stepsCount</key>
+	<string>Pas : %d</string>
+	<key>sunny</key>
+	<string>Soleil</string>
+	<key>systemSettings</key>
+	<string>Ouvrir les réglages système</string>
+	<key>today</key>
+	<string>Aujourd’hui</string>
+	<key>todayBest</key>
+	<string>Meilleure partie du jour</string>
+	<key>todayLocation</key>
+	<string>LIEU DU JOUR</string>
+	<key>traffic</key>
+	<string>Une voiture a croisé votre chemin. Essayez un autre rythme.</string>
+	<key>train</key>
+	<string>Le train était plus rapide. Surveillez le feu rouge la prochaine fois.</string>
+	<key>tryAgain</key>
+	<string>Essayez encore.</string>
+	<key>tryDaily</key>
+	<string>Essayer le parcours du jour</string>
+	<key>water</key>
+	<string>Ce tronc s’est éloigné. Trouvons un autre chemin.</string>
+	<key>weekRecords</key>
+	<string>Meilleures parties de la semaine</string>
+	<key>widgetDescription</key>
+	<string>Votre parcours du jour, vos poules et vos records locaux. Toujours hors ligne.</string>
+	<key>yourFlock</key>
+	<string>Votre petit poulailler</string>
+	<key>yourRecords</key>
+	<string>Vos records</string>
+</dict>
+</plist>

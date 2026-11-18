@@ -1,0 +1,33 @@
+Chicken Cross · Apple service integration
+
+No external content API, API key, network feed, backend or runtime download is used. The entire map, collection, daily tasks, records and widget state work offline. Game Center is an optional Apple service; local game functionality never depends on it.
+
+To sign for a physical device, select your own Apple team and register the app ID org.sunnyplume.trail441, its WidgetKit extension org.sunnyplume.trail441.dawn, and App Group group.org.sunnyplume.trail441. Both products must have access to the same App Group. Game Center and Push Notifications are declared only on the main app; the extension has only the App Group entitlement.
+
+App Store Connect setup, requiring the owner’s Apple account:
+- Enable Game Center for the app matching the main bundle ID.
+- Create a classic leaderboard with ID org.sunnyplume.trail441.distance, integer distance, high-to-low, best score, minimum 0.
+- Create a recurring daily leaderboard with ID org.sunnyplume.trail441.daily, high-to-low, best score. The offline challenge resets at the player’s local midnight, while Game Center recurrence follows the App Store Connect schedule. The local tasks and records remain the authoritative local-day progress.
+- Localized display names can be “Longest crossing” / “Längste Strecke” / “Maior travessia” / “Plus longue traversée” and “Daily route” / “Tagesroute” / “Rota diária” / “Parcours du jour”.
+- Authentication is user initiated, behind an adult arithmetic gate. Scores are sent only after this opt-in. The highest local distance remains persisted, so failed all-time submissions can retry on later activation or authentication. The daily score is submitted for the current day only.
+
+Notifications are local, optional and requested only from the Settings explanation. Two repeating calendar requests run at 09:00 and 18:00 in device local time. Denial leaves gameplay working; a gated link to system settings is offered. No APNs registration, push server or remote update promise exists.
+
+Technical resolutions:
+1. There is exactly one application target. A separate WidgetKit extension is required by Apple to supply the mandatory widgets. Two testing bundles contain no shipping functionality. Six authored Swift files total, including tests; two of these files are shared by app/extension or extension/tests.
+2. Live Activity is omitted and NSSupportsLiveActivities is false because the individual specification explicitly excludes it for short sessions. WidgetKit timer text provides the offline daily deadline on the Lock Screen.
+3. The app bundle ID prefix is shared only with its own extension, as Apple requires. It is not shared with another product.
+4. No unused camera, location, microphone, HealthKit or other privacy usage strings are declared. InfoPlist.xcstrings localizes the display name in all four shipped languages; notification permission wording belongs to iOS.
+5. UIBackgroundModes remote-notification and aps-environment are declared according to the supplied requirements, with no claimed remote delivery.
+
+Primary Apple documentation checked during implementation:
+https://developer.apple.com/documentation/widgetkit/creating-a-widget-extension
+https://developer.apple.com/documentation/widgetkit/keeping-a-widget-up-to-date
+https://developer.apple.com/documentation/gamekit/authenticating-a-player
+https://developer.apple.com/documentation/gamekit/gkleaderboard/submitscore(_:context:player:leaderboardids:completionhandler:)
+https://developer.apple.com/documentation/BundleResources/Entitlements/com.apple.developer.game-center
+https://developer.apple.com/documentation/usernotifications/scheduling-a-notification-locally-from-your-app
+
+Icon provenance:
+Created with the built-in image_gen tool. Final source: Resources/HenIconOriginal.png. App asset: Resources/PlumeAssets.xcassets/FeatherMark.appiconset/FeatherMark.png. Original generic character; no logos or text. The result was inspected for palette, subject and obvious brand resemblance, then resized to 1024px with sips for Xcode.
+Final prompt: “Use case: stylized-concept. Asset type: iOS app icon, square 1024 × 1024, full bleed image with no baked outer rounded corners. Cute original 3D white hen with orange #FF8C42 beak mid-step on a small diagonal zebra crossing, sunny yellow #FFD400 background, chunky clay toy style. Charcoal #2B2B2B road, tiny grass #7CB518 accents. Hen occupies most of frame, warm soft shadows, playful friendly expression. No text, no logos, no branding, no borders, no watermark. Original generic chicken character, not based on any known game character.”

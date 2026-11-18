@@ -1,0 +1,4 @@
+Target dependency graph (2 targets)
+Target 'SunnyPlume' in project 'SunnyPlume'
+➜ Explicit dependency on target 'DawnTile' in project 'SunnyPlume'
+Target 'DawnTile' in project 'SunnyPlume' (no dependencies)

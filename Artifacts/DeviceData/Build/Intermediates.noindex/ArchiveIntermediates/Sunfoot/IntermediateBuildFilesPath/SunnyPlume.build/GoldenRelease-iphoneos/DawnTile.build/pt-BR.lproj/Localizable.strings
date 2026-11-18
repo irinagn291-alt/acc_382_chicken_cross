@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Chicken Cross</key>
+	<string>Chicken Cross</string>
+	<key>again</key>
+	<string>Pular de novo</string>
+	<key>allTime</key>
+	<string>Geral</string>
+	<key>answer</key>
+	<string>Resposta</string>
+	<key>back</key>
+	<string>Pular para trás</string>
+	<key>best</key>
+	<string>Melhor</string>
+	<key>cancel</key>
+	<string>Cancelar</string>
+	<key>choose</key>
+	<string>Escolher</string>
+	<key>coins</key>
+	<string>Moedas</string>
+	<key>coinsCount</key>
+	<string>Moedas: %d</string>
+	<key>collect</key>
+	<string>Colecionar</string>
+	<key>comfort</key>
+	<string>Do seu jeito</string>
+	<key>continue</key>
+	<string>Continuar</string>
+	<key>daily</key>
+	<string>Diário</string>
+	<key>dailyAdventure</key>
+	<string>Aventura diária</string>
+	<key>dailyHelp</key>
+	<string>Uma rota para o dia inteiro. Aprenda o ritmo e supere sua distância.</string>
+	<key>dailyReminders</key>
+	<string>Lembrar todos os dias</string>
+	<key>dailyRun</key>
+	<string>Rota diária</string>
+	<key>dayEnded</key>
+	<string>Uma nova rota diária chegou. A anterior está salva.</string>
+	<key>disconnect</key>
+	<string>Parar de compartilhar pontuações</string>
+	<key>done</key>
+	<string>Concluir</string>
+	<key>ember</key>
+	<string>Brasa</string>
+	<key>endRun</key>
+	<string>Encerrar corrida</string>
+	<key>endsIn</key>
+	<string>Termina em</string>
+	<key>erase</key>
+	<string>Apagar progresso local</string>
+	<key>eraseQuestion</key>
+	<string>Apagar moedas, galinhas e recordes locais? Os recordes do Game Center ficam com a Apple.</string>
+	<key>everyHopCounts</key>
+	<string>CADA PULO CONTA</string>
+	<key>explore</key>
+	<string>Explorar este lugar</string>
+	<key>finished</key>
+	<string>Sua aventura está salva. Pronto quando você quiser.</string>
+	<key>flock</key>
+	<string>Bando</string>
+	<key>flockHelp</key>
+	<string>Encontre moedas pelo caminho e colecione novos visuais. Todas pulam do mesmo jeito.</string>
+	<key>forward</key>
+	<string>Pular para frente</string>
+	<key>freeForever</key>
+	<string>Grátis para jogar. Sem anúncios. Feito para pequenas aventuras.</string>
+	<key>freeRun</key>
+	<string>Corrida livre</string>
+	<key>freshEveryMorning</key>
+	<string>NOVIDADE A CADA MANHÃ</string>
+	<key>frost</key>
+	<string>Manhã gelada</string>
+	<key>gameCenter</key>
+	<string>Game Center</string>
+	<key>gameField</key>
+	<string>Campo de travessia</string>
+	<key>gateHelp</key>
+	<string>Peça a um adulto para responder antes de abrir os serviços do sistema.</string>
+	<key>gcConnecting</key>
+	<string>Conectando ao Game Center…</string>
+	<key>gcHelp</key>
+	<string>Compare distâncias no Game Center. A conexão é opcional; seus recordes locais estão sempre disponíveis.</string>
+	<key>gcPrivacy</key>
+	<string>Ao conectar o Game Center, a Apple recebe suas pontuações e cuida do seu perfil. Desconecte abaixo para parar de compartilhar novas pontuações.</string>
+	<key>gcReady</key>
+	<string>Game Center conectado.</string>
+	<key>gcUnavailable</key>
+	<string>Game Center indisponível. Sua distância está salva aqui e pode ser sincronizada ao reconectar.</string>
+	<key>gestureHelp</key>
+	<string>Toque para pular · Deslize para virar</string>
+	<key>grownUps</key>
+	<string>Para adultos</string>
+	<key>haptics</key>
+	<string>Vibração suave</string>
+	<key>harvest</key>
+	<string>Campos de colheita</string>
+	<key>howTo</key>
+	<string>Como atravessar</string>
+	<key>ivory</key>
+	<string>Pequena Marfim</string>
+	<key>laneField</key>
+	<string>Campo de grama</string>
+	<key>laneRail</key>
+	<string>Ferrovia, observe o sinal</string>
+	<key>laneRiver</key>
+	<string>Rio, fique em um tronco</string>
+	<key>laneRoad</key>
+	<string>Rua com carros em movimento</string>
+	<key>left</key>
+	<string>Pular à esquerda</string>
+	<key>littlePersonalities</key>
+	<string>PEQUENAS PERSONALIDADES</string>
+	<key>location</key>
+	<string>Paisagem da corrida livre</string>
+	<key>locations</key>
+	<string>Lugares das estações</string>
+	<key>meadow</key>
+	<string>Prado ensolarado</string>
+	<key>midnight</key>
+	<string>Meia-noite</string>
+	<key>mint</key>
+	<string>Hortelã</string>
+	<key>missionCoins</key>
+	<string>Juntar moedas hoje</string>
+	<key>missionDistance</key>
+	<string>Avançar na rota diária</string>
+	<key>missionRuns</key>
+	<string>Concluir três corridas hoje</string>
+	<key>needCoins</key>
+	<string>Continue explorando para encontrar moedas.</string>
+	<key>noRecords</key>
+	<string>Sua primeira aventura começa aqui.
+Conclua uma corrida para ver seu recorde.</string>
+	<key>noRecordsShort</key>
+	<string>Conclua a primeira corrida.</string>
+	<key>notificationError</key>
+	<string>Não foi possível ativar os lembretes. Tente mais tarde.</string>
+	<key>notificationsDenied</key>
+	<string>Os lembretes estão desativados nos ajustes do sistema. Todo o jogo continua funcionando.</string>
+	<key>notifyPlace</key>
+	<string>O novo lugar do dia chegou. Uma aventura espera por você.</string>
+	<key>notifyTasks</key>
+	<string>As tarefas de hoje estão prontas. Pule um pouco mais longe.</string>
+	<key>offlineArcade</key>
+	<string>ARCADE OFFLINE</string>
+	<key>openGameCenter</key>
+	<string>Abrir Game Center</string>
+	<key>orchard</key>
+	<string>Pomar verde</string>
+	<key>ownedCount</key>
+	<string>Coleção: %d / 6</string>
+	<key>pause</key>
+	<string>Pausar corrida</string>
+	<key>pauseHelp</key>
+	<string>Sua galinha espera aqui.</string>
+	<key>paused</key>
+	<string>Uma pausa rápida</string>
+	<key>play</key>
+	<string>Jogar</string>
+	<key>privacy</key>
+	<string>Sua privacidade</string>
+	<key>privacyText</key>
+	<string>Rotas, moedas, galinhas e recordes ficam neste dispositivo. Os widgets leem os mesmos dados locais. Sem anúncios, rastreamento, compras ou servidores próprios.</string>
+	<key>railHelp</key>
+	<string>Desvie dos carros. A luz vermelha indica que um trem se aproxima. Espere na grama até os trilhos ficarem livres.</string>
+	<key>readyHelp</key>
+	<string>Uma galinha. Um mundo imenso.
+Até onde você vai pular?</string>
+	<key>readyTitle</key>
+	<string>Preparar, apontar,
+atravessar.</string>
+	<key>records</key>
+	<string>Recordes</string>
+	<key>reminders</key>
+	<string>Lembretes diários</string>
+	<key>remindersHelp</key>
+	<string>Lembretes locais às 09:00 para o novo lugar e às 18:00 para as tarefas diárias. Sem servidor. Desative quando quiser.</string>
+	<key>resume</key>
+	<string>Continuar pulando</string>
+	<key>right</key>
+	<string>Pular à direita</string>
+	<key>riverHelp</key>
+	<string>Atravesse a água nos troncos em movimento. Fique neles e pule para o próximo antes de sair do campo.</string>
+	<key>rose</key>
+	<string>Rosinha</string>
+	<key>rulesText</key>
+	<string>Toque no campo ou na seta para cima para avançar. Deslize ou use as setas para ir aos lados ou para trás. Árvores bloqueiam o caminho. É possível recuar até cinco fileiras.</string>
+	<key>runOver</key>
+	<string>Uma corrida corajosa</string>
+	<key>seasonal</key>
+	<string>Seguir a estação</string>
+	<key>seasonsHelp</key>
+	<string>Todos os lugares estão abertos. Escolha uma paisagem para a próxima corrida livre.</string>
+	<key>selected</key>
+	<string>Selecionada</string>
+	<key>settings</key>
+	<string>Ajustes</string>
+	<key>startDaily</key>
+	<string>Iniciar rota diária</string>
+	<key>startRun</key>
+	<string>Vamos atravessar</string>
+	<key>steps</key>
+	<string>Passos</string>
+	<key>stepsCount</key>
+	<string>Passos: %d</string>
+	<key>sunny</key>
+	<string>Ensolarada</string>
+	<key>systemSettings</key>
+	<string>Abrir ajustes do sistema</string>
+	<key>today</key>
+	<string>Hoje</string>
+	<key>todayBest</key>
+	<string>Melhor corrida de hoje</string>
+	<key>todayLocation</key>
+	<string>LOCAL DE HOJE</string>
+	<key>traffic</key>
+	<string>Um carro cruzou seu caminho. Tente outro ritmo.</string>
+	<key>train</key>
+	<string>O trem foi mais rápido. Observe o sinal vermelho na próxima.</string>
+	<key>tryAgain</key>
+	<string>Tente mais uma vez.</string>
+	<key>tryDaily</key>
+	<string>Jogar rota de hoje</string>
+	<key>water</key>
+	<string>O tronco se afastou. Vamos achar outro caminho.</string>
+	<key>weekRecords</key>
+	<string>Melhores corridas da semana</string>
+	<key>widgetDescription</key>
+	<string>Sua rota diária, seu bando e recordes locais. Sempre disponíveis offline.</string>
+	<key>yourFlock</key>
+	<string>Seu pequeno bando</string>
+	<key>yourRecords</key>
+	<string>Seus recordes</string>
+</dict>
+</plist>

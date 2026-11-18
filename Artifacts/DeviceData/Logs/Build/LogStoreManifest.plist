@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>13</integer>
+	<key>logs</key>
+	<dict>
+		<key>8296F9B0-F8DE-4673-8CFA-A54B21B9150B</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>8296F9B0-F8DE-4673-8CFA-A54B21B9150B.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>SunnyPlume project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Sunfoot</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Archiving project SunnyPlume with scheme Sunfoot</string>
+			<key>timeStartedRecording</key>
+			<real>816430742.95732296</real>
+			<key>timeStoppedRecording</key>
+			<real>816430748.17147696</real>
+			<key>title</key>
+			<string>Archiving project SunnyPlume with scheme Sunfoot</string>
+			<key>uniqueIdentifier</key>
+			<string>8296F9B0-F8DE-4673-8CFA-A54B21B9150B</string>
+		</dict>
+		<key>EC388A49-3F17-49AC-A164-CCDE6D198D3F</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>EC388A49-3F17-49AC-A164-CCDE6D198D3F.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>SunnyPlume project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Sunfoot</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Archiving project SunnyPlume with scheme Sunfoot</string>
+			<key>timeStartedRecording</key>
+			<real>816431237.95762801</real>
+			<key>timeStoppedRecording</key>
+			<real>816431242.28129601</real>
+			<key>title</key>
+			<string>Archiving project SunnyPlume with scheme Sunfoot</string>
+			<key>uniqueIdentifier</key>
+			<string>EC388A49-3F17-49AC-A164-CCDE6D198D3F</string>
+		</dict>
+		<key>F847B79E-94C7-41B3-969B-5775A3438971</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>F847B79E-94C7-41B3-969B-5775A3438971.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>SunnyPlume project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Sunfoot</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Archiving project SunnyPlume with scheme Sunfoot</string>
+			<key>timeStartedRecording</key>
+			<real>816431021.20239198</real>
+			<key>timeStoppedRecording</key>
+			<real>816431025.88381696</real>
+			<key>title</key>
+			<string>Archiving project SunnyPlume with scheme Sunfoot</string>
+			<key>uniqueIdentifier</key>
+			<string>F847B79E-94C7-41B3-969B-5775A3438971</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

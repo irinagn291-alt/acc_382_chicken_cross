@@ -1,0 +1,19 @@
+{
+  "swift_authored_files": 6,
+  "uuid_count": 77,
+  "other_projects_compared": 67,
+  "uuid_collisions": [],
+  "bundle_collisions": [],
+  "languages": [
+    "en",
+    "de",
+    "pt-BR",
+    "fr"
+  ],
+  "localization_keys": 115,
+  "missing_translations": {},
+  "prohibited_ui_terms": [],
+  "machine_paths_in_shipped_sources": [],
+  "requirements_sha256": "c364b545d9375ab7399a59354ac4c0076c74ad41133a056a3715f3f726dc5626",
+  "readme_sha256": "f0134d4bc1eab47d1b8d3e37be06fc510be0744a7dc17b95e258885e08ef7e93"
+}

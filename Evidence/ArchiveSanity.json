@@ -1,0 +1,18 @@
+{
+  "archive": "Artifacts/ChickenCross-Release.xcarchive",
+  "archive_exists": true,
+  "archive_bytes": 4786642,
+  "machine_path_occurrences": [],
+  "localizations": [
+    "de.lproj",
+    "en.lproj",
+    "fr.lproj",
+    "pt-BR.lproj"
+  ],
+  "embedded_widget": true,
+  "bundle_id": "org.sunnyplume.trail441",
+  "version": "1.1.4",
+  "build": "441",
+  "signed": false,
+  "build_result": "Evidence/ReleaseBuild.xcresult"
+}
